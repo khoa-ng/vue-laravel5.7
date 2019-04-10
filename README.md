@@ -18,7 +18,7 @@
 ## How to use
 ### Clone repository
 ```sh
-$ git clone https://github.com/lilisgeorge/vue-laravel-auth-boilerplate.git project_name
+$ git clone git@github.com:khoa-ng/vue-laravel5.7.git
 ```
 ### Setup Laravel
 1. Install Dependencies
