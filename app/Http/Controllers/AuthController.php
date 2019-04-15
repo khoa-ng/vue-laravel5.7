@@ -14,6 +14,7 @@ class AuthController extends Controller
 {
     const REFRESH_TOKEN = 'refreshToken';
 
+
     /**
      * Create user
      *
